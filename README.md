@@ -85,5 +85,5 @@ npm run server
 ```
 ~ Addition of review system 
 ~ Oauth : Google, Facebook or Github
-~ Include user spotify playlist of songs/podcast in there dashboard with spotify's api
+~ Include users' spotify playlist of songs/podcast in there dashboard with spotify's api
 ```
