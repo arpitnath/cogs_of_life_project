@@ -20,6 +20,13 @@ Live Demo --> [lifeofcogs-app](https://cogsprojectapp.herokuapp.com/)
 - Admin Dashboard
 - Complete process of booking a session to providing personal notes to the respective counsellor and also scheduling date and time
 
+There are also some inconsiderable features in the app like
+>  - after scheduling a session and confirmed from the admin side, the join button will be disable till scheduled time.
+> Different dashboards for users and admins
+
+
 
 ## Demo of the App
 https://user-images.githubusercontent.com/67645175/103601656-1b4d3000-4f30-11eb-8a93-3e72a775b0f2.mp4
+
+---
