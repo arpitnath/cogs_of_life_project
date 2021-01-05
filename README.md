@@ -56,10 +56,12 @@ You can also install and setup Babel if you would like
 
 
 ### Env Variables
+```
 NODE_ENV = 
 PORT = 
 MONGO_URI = your mongodb uri
 JWT_SECRET = 
+```
 
 ### Install Dependencies (frontend & backend)
 
