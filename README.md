@@ -30,11 +30,58 @@ There are also some insignificant features in the app like
 https://user-images.githubusercontent.com/67645175/103601656-1b4d3000-4f30-11eb-8a93-3e72a775b0f2.mp4
 
 ---
+### Sample Logins
+```
+# for Admin
+    username: superuser@admin.com
+    password: 123456
+# users
+    username: john@user.com
+    password: 123456
+
+    username: jane@test.com
+    password: 123456
+
+```
+
+---
 
 ### ES Modules in Node
 
-I have ECMAScript Modules in the backend in this project. Be sure to have at least Node v14.6+ or you will need to add the "--experimental-modules" flag.
+I have used ECMAScript Modules in the backend in this project. Be sure to have at least Node v14.6+ or you will need to add the "--experimental-modules" flag.
 
 Also, when importing a file *(not a package)*, be sure to add    `.js` at the end or you will get a "module not found" error
 
 You can also install and setup Babel if you would like
+
+
+### Env Variables
+NODE_ENV = 
+PORT = 
+MONGO_URI = your mongodb uri
+JWT_SECRET = 
+
+### Install Dependencies (frontend & backend)
+
+```
+npm install
+cd frontend
+npm install
+```
+
+### Run
+
+```
+# Run frontend (:3000) & backend (:5000)
+npm run dev
+
+# Run backend only
+npm run server
+```
+---
+## Future Note 
+```
+~ Addition of review system 
+~ Oauth : Google, Facebook or Github
+~ Include user spotify playlist of songs/podcast in there dashboard with spotify's api
+```
