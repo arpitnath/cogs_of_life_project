@@ -30,19 +30,7 @@ There are also some insignificant features in the app like
 https://user-images.githubusercontent.com/67645175/103601656-1b4d3000-4f30-11eb-8a93-3e72a775b0f2.mp4
 
 ---
-### Sample Logins
-```
-# for Admin
-    username: superuser@admin.com
-    password: 123456
-# users
-    username: john@user.com
-    password: 123456
 
-    username: jane@test.com
-    password: 123456
-
-```
 
 ---
 
