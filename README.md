@@ -4,5 +4,6 @@
 
 > Note : "It's just a Personal Project"
 
-Built with the *MERN* stack
+Built with the *MERN* stack.
+
 [lifeofcogs-app](https://cogsprojectapp.herokuapp.com/)
